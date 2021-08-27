@@ -1,0 +1,25 @@
+body{
+    background-image: url(https://www.rawshorts.com/blog/wp-content/uploads/2019/06/stopwatch-8-gif-download-stopwatch-gif-animation.gif);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.all{
+    align-items: center;
+    margin-top: 450px;
+    border: 2px solid;
+    width: 200px;
+    margin-left: 600px;
+    border-radius: 30px;
+    padding: 20px;
+    background-color: darkcyan;
+}
+
+.one{
+    color: white;
+}
+
+/* .two{
+    background-color: black;
+    color: white;
+} */
